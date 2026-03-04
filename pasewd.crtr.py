@@ -1,4 +1,4 @@
-import random 
+import secrets 
 import string
 
 def generate_password(length: int =10):
@@ -9,3 +9,4 @@ def generate_password(length: int =10):
 password = generate_password()
 print(f"Generated password: {password}")
        
+
