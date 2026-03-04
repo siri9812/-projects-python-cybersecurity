@@ -25,7 +25,7 @@ with Python's built-in secrets module. No dependencies required.
   No external packages needed. Requires Python 3.6+
 
   # Clone the repository
-  git clone https://github.com/yourusername/password-generator.git
+  git clone https://github.com/siri9812/password-generator.git
 
   # Navigate into the project folder
   cd password-generator
@@ -55,8 +55,6 @@ with Python's built-in secrets module. No dependencies required.
 --------------
   generate_password(length: int = 10)
 
-    length    Number of characters in the generated password.
-              Defaults to 10 if not provided.
 
 
 ⚠️ Limitations
